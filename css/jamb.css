@@ -1,0 +1,142 @@
+.jambbanner{ 
+    
+}
+img{
+    width: 100%;
+    height: auto;
+}
+.yu{
+    padding-left: 40px !important;
+    color: white !important;
+}
+.backgroundnav{
+    background-color: rgb(0, 94, 36) !important;
+}
+.xx{
+    width: 100%;
+    position: sticky !important;
+    top: 0;
+    left: 0;
+    z-index: 9995;
+}
+.carrosel{
+    background-color: rgb(230, 228, 228);
+    padding-top: 10px;
+    height: 100%;
+}
+.color{
+    background-color: rgb(230, 228, 228);
+    height: 100%;
+}
+.man{
+    border-radius: 50%;
+    height: 300px;
+    width: 250px;
+}
+.heading1{
+    font-size: 18px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.trivago1{
+    background-color: white;
+   
+}
+.trivago2{
+    background-color: white;
+
+}
+.trivag{
+   
+}
+.professor{
+    text-align: center;
+}
+#OLOYEDE{
+    color: rgb(107, 133, 180);
+    font-weight: bolder;
+}
+.rex{
+    font-size: 15px;
+    padding-left: 30px;
+}
+.readmore{
+    text-decoration: none;
+    color: red;
+}
+.quicklinks{
+    background-color: white;
+}
+.color2{
+    background-color: rgb(230, 228, 228);
+}
+.cap{
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+}
+.service{
+    text-align: center;
+    background-color: white;
+    padding-top: 20px !important;
+    border: 1px solid rgb(177, 177, 177);
+    height: 330px;
+    width: 290px !important;
+}
+.gg{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 20px;
+    padding: 10px;
+}
+.margin{
+    margin-bottom: -15px;
+}
+.bmx{
+    color: black;
+   text-decoration: none;
+   margin-bottom: -50px;
+}
+.margins{
+    margin-bottom: -10px;
+}
+.bmx:hover{
+     color: rgb(255, 230, 8);
+     text-decoration: underline;
+}
+.chatus{
+    height: 140px;
+    width: 130px;
+}
+.bg{
+    background-color: rgb(0, 94, 36);
+}
+.followus{
+    font-size: 18px;
+    color: white;
+    padding-top: 40px;
+}
+.contactbtn{
+    border: none;
+    background-color: white;
+}
+.margind{
+    margin-bottom: -10px;
+    color: white;
+}
+.subscribe{
+    border: none;
+    background-color: rgb(53, 163, 97);
+    color: white;
+    font-size: 19px;
+    width: 300px;
+}
+.subscribe:hover{
+    border: 1px solid rgb(0, 255, 234);
+    background-color: transparent;
+}
+.bb{
+    padding-top: 20px;
+    text-align: center;
+
+}
